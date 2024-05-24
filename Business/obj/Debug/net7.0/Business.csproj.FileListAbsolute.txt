@@ -1,0 +1,14 @@
+/Users/merturas/Projects/TicketSell/Business/bin/Debug/net7.0/Business.deps.json
+/Users/merturas/Projects/TicketSell/Business/bin/Debug/net7.0/Business.runtimeconfig.json
+/Users/merturas/Projects/TicketSell/Business/bin/Debug/net7.0/Business.dll
+/Users/merturas/Projects/TicketSell/Business/bin/Debug/net7.0/Business.pdb
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.dll
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.pdb
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/Business.genruntimeconfig.cache
+/Users/merturas/Projects/TicketSell/Business/obj/Debug/net7.0/ref/Business.dll

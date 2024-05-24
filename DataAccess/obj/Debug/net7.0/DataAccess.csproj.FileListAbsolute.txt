@@ -1,0 +1,17 @@
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/Business.dll
+/Users/merturas/Projects/TicketSell/DataAccess/bin/Debug/net7.0/Business.pdb
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/merturas/Projects/TicketSell/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
